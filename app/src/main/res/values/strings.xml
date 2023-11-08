@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fun Facts</string>
+    <string name="hi_there">Hi There, \uD83d\uDE0A</string>
+    <string name="lets_learn">Let\'s Learn About You!</string>
+    <string name="information">This app will prepare a details page based on input provided by you!</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="name">Name</string>
+    <string name="do_you_like">What do you like ?</string>
+    <string name="detail_screen">Details screen</string>
+    <string name="weclome">Welcome \uD83D\uDE0D </string>
+    <string name="thank_you">Thank You! For sharing your data.</string>
+</resources>
